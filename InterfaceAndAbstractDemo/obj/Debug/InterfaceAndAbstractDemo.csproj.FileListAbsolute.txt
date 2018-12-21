@@ -1,0 +1,14 @@
+C:\Users\eser.kuru\Desktop\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo\bin\Debug\InterfaceAndAbstractDemo.exe.config
+C:\Users\eser.kuru\Desktop\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo\bin\Debug\InterfaceAndAbstractDemo.exe
+C:\Users\eser.kuru\Desktop\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo\bin\Debug\InterfaceAndAbstractDemo.pdb
+C:\Users\eser.kuru\Desktop\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo\obj\Debug\InterfaceAndAbstractDemo.csprojAssemblyReference.cache
+C:\Users\eser.kuru\Desktop\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo\obj\Debug\InterfaceAndAbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\eser.kuru\Desktop\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo\obj\Debug\InterfaceAndAbstractDemo.exe
+C:\Users\eser.kuru\Desktop\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo-master\InterfaceAndAbstractDemo\obj\Debug\InterfaceAndAbstractDemo.pdb
+D:\Projects\Source\Repos\Udemy-Working\InterfaceAndAbstractDemo\bin\Debug\InterfaceAndAbstractDemo.exe.config
+D:\Projects\Source\Repos\Udemy-Working\InterfaceAndAbstractDemo\bin\Debug\InterfaceAndAbstractDemo.exe
+D:\Projects\Source\Repos\Udemy-Working\InterfaceAndAbstractDemo\bin\Debug\InterfaceAndAbstractDemo.pdb
+D:\Projects\Source\Repos\Udemy-Working\InterfaceAndAbstractDemo\obj\Debug\InterfaceAndAbstractDemo.csprojAssemblyReference.cache
+D:\Projects\Source\Repos\Udemy-Working\InterfaceAndAbstractDemo\obj\Debug\InterfaceAndAbstractDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Source\Repos\Udemy-Working\InterfaceAndAbstractDemo\obj\Debug\InterfaceAndAbstractDemo.exe
+D:\Projects\Source\Repos\Udemy-Working\InterfaceAndAbstractDemo\obj\Debug\InterfaceAndAbstractDemo.pdb
